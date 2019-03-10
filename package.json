@@ -27,6 +27,7 @@
     },
     "dependencies": {
         "bootstrap": ">=4.3.1",
+        "popper.js": "^1.14.3",
         "font-awesome": "4.7.0",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1",
