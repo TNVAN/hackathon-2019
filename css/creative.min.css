@@ -41,6 +41,16 @@ hr.light{border-color:#fff}
 a{color:#24BDBB;-webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s}
 a:hover{color:#24BDBB}
 h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
+
+#hd{
+color:#24BDBB;}
+#pcolor{
+  background: black;
+  position: center;
+  width: 570px;
+
+}
+
 .bg-primary{background-color:#24BDBB!important}
 .bg-dark{background-color:#212529!important}
 .text-faded{color:rgba(255,255,255,.7)}
@@ -101,9 +111,6 @@ header.masthead p{font-weight:300}@media (min-width:768px){header.masthead p{fon
   border: 2px solid #fff;
 
 }
-
-
-
 
 
 .accordion-section .panel-default > .panel-heading {
