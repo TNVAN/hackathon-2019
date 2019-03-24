@@ -43,11 +43,20 @@ a:hover{color:#24BDBB}
 h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
 
 #hd{
-color:#24BDBB;}
-#pcolor{
-  background: black;
+  background-color: black;
+  opacity: 0.7;
   position: center;
-  width: 570px;
+  width: 100%;
+  
+}
+
+
+
+#pcolor{
+  background-color: black;
+  opacity: 0.7;
+  position: center;
+  width: 100%;
 
 }
 
