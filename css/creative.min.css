@@ -20,6 +20,35 @@ footer {
         height: 100%;
     }
 
+
+
+#owl-caro .item{
+  background: white;
+  padding: 20px 0px;
+  margin: 10px;
+  color: #FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.video-responsive{
+    overflow:hidden;
+    margin: 20px 10px 0px 10px;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+
 #hightlight {
   color: #FE5E01;
 }
